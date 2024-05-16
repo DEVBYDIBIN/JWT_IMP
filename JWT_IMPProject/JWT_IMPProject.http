@@ -1,0 +1,6 @@
+@JWT_IMPProject_HostAddress = http://localhost:5268
+
+GET {{JWT_IMPProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
